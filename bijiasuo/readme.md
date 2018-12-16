@@ -6,6 +6,7 @@
 cp vendor/rockmelodies/bijiasuo/phpdocx/config/phpdocxconfig.ini config/phpdocxconfig.ini 
 ```
 
+
 然后根据需要配置phpdocxconfig即可使用
 
 如果不复制phpdocxconfig配置文件，则默认使用自带的配置文件
