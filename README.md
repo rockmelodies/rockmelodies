@@ -217,34 +217,38 @@ Go           1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ## 🎯 当前专注 Current Focus
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "RockMelodies"
-        self.role = "Security Researcher & Full Stack Developer"
-        self.location = "China"
-    
-    @property
-    def current_focus(self):
-        return {
-            "security_research": "漏洞分析与利用研究",
-            "tool_development": "安全工具与自动化脚本开发", 
-            "web_security": "Web 应用安全测试",
-            "automation": "DevOps 与 CI/CD 流程自动化",
-            "learning": "云原生安全、容器安全"
-        }
-    
-    @property
-    def tech_stack(self):
-        return [
-            "Python", "Java", "JavaScript/TypeScript",
-            "Vue.js", "React", "Spring Boot",
-            "Docker", "Kubernetes", "Linux"
-        ]
+<table>
+<tr>
+<td width="50%" valign="top">
 
-me = Developer()
-print(f"👨‍💻 {me.name} | {me.role}")
-```
+### 🔍 技术研究方向
+
+- 🛡️ **安全研究** - 漏洞分析与利用研究
+- 🔧 **工具开发** - 安全工具与自动化脚本开发
+- 🌐 **Web 安全** - Web 应用安全测试
+- ⚙️ **自动化** - DevOps 与 CI/CD 流程自动化
+- 📚 **学习探索** - 二进制安全、逆向工程
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 技术栈
+
+- **语言**: Python • Java • JavaScript/TypeScript
+- **前端**: Vue.js • React • HTML5/CSS3
+- **后端**: Spring Boot • Node.js • Django
+- **DevOps**: Docker • Kubernetes • Linux
+- **安全**: Burp Suite • Metasploit • Wireshark
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Security%20Research-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-China-green?style=for-the-badge" />
+</p>
 
 </div>
 
