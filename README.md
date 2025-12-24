@@ -266,7 +266,7 @@ Go           1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 1. 🎉 Created new repository [rockmelodies/awesome-project](https://github.com/rockmelodies/awesome-project)
-2. 💪 Opened PR #123 in [example/repo](https://github.com/example/repo)
+2. 💪 Opened PR [查看我的所有PR](https://github.com/search?q=author%3Arockmelodies%20is%3Apr&type=pullrequests)
 3. 🗣 Commented on #456 in [another/repo](https://github.com/another/repo)
 4. ⭐ Starred [awesome/repository](https://github.com/awesome/repository)
 5. 🍴 Forked [cool/project](https://github.com/cool/project)
