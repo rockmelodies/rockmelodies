@@ -53,35 +53,40 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rockmelodies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rockmelodies&theme=tokyonight&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=rockmelodies&theme=tokyonight&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2" alt="GitHub Streak" />
 </p>
 
 ### 📈 贡献活动图 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rockmelodies&custom_title=RockMelodies's%20Contribution%20Graph&bg_color=0d1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rockmelodies&custom_title=RockMelodies's%20Contribution%20Graph&bg_color=0d1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&hide_border=true&theme=github-compact" alt="Activity Graph" width="95%"/>
 </p>
 
 ### 💻 语言使用统计 Language Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmelodies&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rockmelodies&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmelodies&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&langs_count=8&exclude_repo=rockmelodies" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmelodies&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&langs_count=6" alt="Language Stats" />
 </p>
 
-### 📅 提交热力图 Contribution Heatmap
+### 📅 详细统计 Detailed Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rockmelodies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&hide=contribs&custom_title=Detailed%20Stats" alt="Detailed Stats" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rockmelodies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&custom_title=Detailed%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" width="95%" />
 </p>
 
 ### 🐍 贡献蛇形动画 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rockmelodies/rockmelodies/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rockmelodies/rockmelodies/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rockmelodies/rockmelodies/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rockmelodies/rockmelodies/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<details>
+<summary>📌 如何启用蛇形动画？</summary>
+<br>
+需要在你的 GitHub Profile 仓库 (rockmelodies/rockmelodies) 中添加 GitHub Actions 工作流。
+如果还未设置，可以暂时隐藏此部分或联系我帮你配置。
+</details>
 
 </div>
 
@@ -157,23 +162,24 @@
 
 ## 📌 精选项目 Pinned Projects
 
+<!-- 请将下面的仓库名替换为你实际的项目仓库 -->
+<!-- 示例：将 'rockmelodies' 替换为实际存在的仓库名 -->
+
 <p align="center">
-  <a href="https://github.com/rockmelodies/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockmelodies&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" alt="Project 1" />
-  </a>
-  <a href="https://github.com/rockmelodies/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockmelodies&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" alt="Project 2" />
+  <a href="https://github.com/rockmelodies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockmelodies&repo=rockmelodies&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" alt="Profile Repo" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rockmelodies/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockmelodies&repo=project3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" alt="Project 3" />
-  </a>
-  <a href="https://github.com/rockmelodies/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockmelodies&repo=project4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" alt="Project 4" />
-  </a>
-</p>
+<details>
+<summary>💡 添加更多项目</summary>
+<br>
+将上面的仓库名替换为你实际的公开仓库，例如：
+<br>
+<code>&repo=your-awesome-project</code>
+<br>
+你可以添加多个项目卡片展示你最好的作品！
+</details>
 
 </div>
 
@@ -194,9 +200,14 @@ Go           1 hr 30 mins    █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rockmelodies&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&custom_title=Weekly%20Coding%20Stats" alt="Wakatime" width="60%" />
-</p>
+<details>
+<summary>💡 启用 WakaTime 统计</summary>
+<br>
+1. 注册 <a href="https://wakatime.com/">WakaTime</a> 账号<br>
+2. 在 IDE 中安装 WakaTime 插件<br>
+3. 配置 GitHub Actions 自动更新统计数据<br>
+启用后，这里会显示你的实时编码统计！
+</details>
 
 </div>
 
@@ -255,32 +266,33 @@ print(f"👨‍💻 {me.name} | {me.role}")
 
 ## 📊 详细统计 Detailed Stats
 
-### 📅 提交时间分布 Commit Time Distribution
+### 📅 语言分布图 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmelodies&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff" alt="Language Distribution" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmelodies&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&exclude_repo=rockmelodies" alt="Language Distribution" width="50%" />
 </p>
 
 ### 🔥 连续贡献记录 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rockmelodies&theme=tokyonight" alt="Profile Summary" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rockmelodies&theme=nord_dark" alt="Profile Summary" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rockmelodies&theme=tokyonight" alt="Repos Per Language" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rockmelodies&theme=tokyonight" alt="Most Commit Language" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rockmelodies&theme=nord_dark" alt="Repos Per Language" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rockmelodies&theme=nord_dark" alt="Most Commit Language" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rockmelodies&theme=tokyonight" alt="Stats" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rockmelodies&theme=tokyonight&utcOffset=8" alt="Productive Time" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rockmelodies&theme=nord_dark" alt="Stats" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rockmelodies&theme=nord_dark&utcOffset=8" alt="Productive Time" width="47%" />
 </p>
 
-### 🎨 3D 贡献图 3D Contribution Calendar
+### 🎨 年度贡献总览 Yearly Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rockmelodies&bg_color=0d1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&hide_border=true&custom_title=3D%20Contribution%20Graph" alt="3D Contribution" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rockmelodies&theme=nord_dark&utcOffset=8" alt="Commit Time" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rockmelodies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&include_all_commits=true" alt="All Time Stats" width="47%" />
 </p>
 
 </div>
@@ -292,7 +304,13 @@ print(f"👨‍💻 {me.name} | {me.role}")
 ## 🤝 开源贡献 Open Source Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rockmelodies&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rockmelodies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&count_private=false&include_all_commits=true&custom_title=Open%20Source%20Contributions" alt="Contribution Stats" width="70%" />
+</p>
+
+### 📊 贡献分布 Contribution Distribution
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rockmelodies&theme=nord_dark" alt="Contribution Timeline" width="95%" />
 </p>
 
 </div>
