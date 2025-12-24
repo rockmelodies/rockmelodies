@@ -34,7 +34,7 @@
 </p>
 
 </div>
----
+
 <div align="center">
 
 ## 🛠️ 技术栈 Tech Stack
@@ -214,12 +214,6 @@ Go           1 hr 30 mins    █░░░░░░░░░░░░░░░░
 <div align="center">
 
 ## 📊 详细统计 Detailed Stats
-
-### 📅 语言分布图 Language Distribution
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmelodies&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&exclude_repo=rockmelodies" alt="Language Distribution" width="50%" />
-</p>
 
 ### 🔥 连续贡献记录 Contribution Streak
 
