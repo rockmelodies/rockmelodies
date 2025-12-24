@@ -166,8 +166,8 @@
 <!-- 示例：将 'rockmelodies' 替换为实际存在的仓库名 -->
 
 <p align="center">
-  <a href="https://github.com/rockmelodies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rockmelodies&repo=rockmelodies&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff" alt="Profile Repo" />
+  <a href="https://github.com/rockmelodies/suricata_ai_gen">
+    <img src="https://github.com/rockmelodies/suricata_ai_gen/blob/master/img.png" alt="Profile Repo" />
   </a>
 </p>
 
