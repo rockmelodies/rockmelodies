@@ -34,62 +34,7 @@
 </p>
 
 </div>
-
-<div align="center">
-
-## 🏆 GitHub 成就 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rockmelodies&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-</div>
-
 ---
-
-<div align="center">
-
-## 📊 GitHub 数据统计 Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rockmelodies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=rockmelodies&theme=tokyonight&hide_border=true&background=0d1117&stroke=4A90E2&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2" alt="GitHub Streak" />
-</p>
-
-### 📈 贡献活动图 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rockmelodies&custom_title=RockMelodies's%20Contribution%20Graph&bg_color=0d1117&color=4A90E2&line=4A90E2&point=FFFFFF&area=true&hide_border=true&theme=github-compact" alt="Activity Graph" width="95%"/>
-</p>
-
-### 💻 语言使用统计 Language Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmelodies&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&langs_count=8&exclude_repo=rockmelodies" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockmelodies&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&langs_count=6" alt="Language Stats" />
-</p>
-
-### 📅 详细统计 Detailed Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rockmelodies&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4A90E2&text_color=ffffff&custom_title=Detailed%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" width="95%" />
-</p>
-
-### 🐍 贡献蛇形动画 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rockmelodies/rockmelodies/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<details>
-<summary>📌 如何启用蛇形动画？</summary>
-<br>
-需要在你的 GitHub Profile 仓库 (rockmelodies/rockmelodies) 中添加 GitHub Actions 工作流。
-如果还未设置，可以暂时隐藏此部分或联系我帮你配置。
-</details>
-
-</div>
-
 <div align="center">
 
 ## 🛠️ 技术栈 Tech Stack
